@@ -1,0 +1,5 @@
+/Users/teapula/Documents/AIM/C++/examples/ecg_plot/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/ecg_plot_project.dir
+/Users/teapula/Documents/AIM/C++/examples/ecg_plot/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/teapula/Documents/AIM/C++/examples/ecg_plot/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/teapula/Documents/AIM/C++/examples/ecg_plot/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/ecg_plot_project_autogen_timestamp_deps.dir
+/Users/teapula/Documents/AIM/C++/examples/ecg_plot/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/ecg_plot_project_autogen.dir
